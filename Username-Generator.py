@@ -13,7 +13,7 @@ no = 0
 Yes = 1
 No = 0
 
-# YOU MUST CHANGE INFO. HERE TO YOUR
+# YOU MUST CHANGE INFO. HERE TO YOURS
 name = "Eddie"  # your name here
 surname = "Johnson"  # put your surname
 nickname = "Wolf"  # your nickname here
