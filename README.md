@@ -1,7 +1,7 @@
 # Username-Generator
 Generating Usernames
 
-Change information in script to yours
+Change information in the script to yours
 
 name = "Eddie"  # your name here
 surname = "Johnson"  # put your surname
